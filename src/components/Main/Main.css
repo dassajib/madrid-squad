@@ -1,0 +1,9 @@
+.main-container {
+    display: grid;
+    grid-template-columns: auto auto;
+}
+
+.search-class {
+    line-height: 30px;
+    width: 50%;
+}
